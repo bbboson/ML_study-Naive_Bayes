@@ -87,3 +87,8 @@ Prior Probability & Posterior Probability
 
 - 이처럼 베이즈 정리는 새로운 정보에 대해 어떻게 대응하여 결과를 도출 해낼지를 알려주는 강력한 도구가 되기 때문에 매우 중요
 
+
+참고 자료
+-------- 
+https://junpyopark.github.io/bayes/#%EC%A1%B0%EA%B1%B4%EB%B6%80-%ED%99%95%EB%A5%A0(Conditional-Probability)
+https://namu.wiki/w/%EB%B2%A0%EC%9D%B4%EC%A6%88%20%EC%A0%95%EB%A6%AC
