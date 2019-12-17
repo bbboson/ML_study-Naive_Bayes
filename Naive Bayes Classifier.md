@@ -39,5 +39,5 @@ Naive Bayes Classifier
   5. Multiple class 예측을 위해서도 사용할 수 있다.
 
 * 단점
-  1. feature 간의 독립성이 있어야 한다. 하지만 실제 데이터에서 모든 feature가 독립인 경우는 드물다.
+  1. feature 간의 독립성이 있어야 한다. 하지만 실제 데이터에서 모든 feature가 독립인 경우는 드물다. 
 
